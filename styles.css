@@ -1,0 +1,64 @@
+/*Agrego el color rojo a los parrafos de etiqueta 
+p{
+    color: red;
+} */
+
+/* Agrego color al h1 y tambien hago uno con dos etiquetas diferentes y mismo color /*
+/*h1{
+    color: #104499;
+}*/
+
+/* h1, h2 {
+    color: violet;
+} */
+
+/* Agrego color general a todo 
+*{
+    color: seagreen;
+} */
+
+/*Agrego fontsize como prueba y color a uno descendiente 
+
+p i {
+    color: seagreen;
+    font-size:20px;
+} */
+
+/*li a {
+    color: tomato;
+} */
+
+/* Selector clase todos los que tenga esa clase se hacen de ese color  */
+
+/*.Rice {
+    color: turquoise;
+    font-size: 25px;
+} */
+
+
+/* Selector ID */
+
+/* #Type1{
+    color: turquoise;
+    font-size: 25px;
+} */
+
+
+/* Selector especifico todos los ancords que tengan la clase Rice se hacen de ese color  */
+
+/*a.Rice{
+    color: orange;
+}*/
+
+/*Todos los elementos con atributo id="aviso" que estén dentro
+	de cualquier elemento de tipo "p" */
+
+/*p #Type1{
+    color: blanchedalmond;
+}*/
+
+/* Todos los elementos "p" de la página y todos los elementos con atributo id="Type2" de la página, osea edita los 2 tipos el atributo p y la clase type2 */
+    
+/*p, .Type2{
+    color: rgb(153, 107, 37);
+} */
